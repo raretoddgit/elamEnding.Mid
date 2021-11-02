@@ -19,7 +19,8 @@ function setup() {
   strokeCap(ROUND);
 
   // Setup
-  clockRadius = 1.5 * (windowWidth / 2);
+  //clockRadius = 1.5 * (windowWidth / 2);
+  clockRadius = windowWidth / 2;
 }
 
 let a_start = 0.0;
