@@ -1,6 +1,6 @@
 // clock parameters
 var clockRadius;
-var handLength = 300;
+var handLength = 400;
 var angle = 0;
 let missAngle = 90;
 let makeAngle = 0;
